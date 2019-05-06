@@ -1,0 +1,46 @@
+.oke {
+	background-image: url('../../img/head2.png'); 
+	background-attachment: fixed; 
+	height: 450px; 
+	background-size: auto;
+	background-position:0 -5px;
+}
+.oce {
+	background-image: url('../../img/123.png');
+	background-attachment: fixed;  
+	background-size: auto;
+	background-position:0 +20px; 
+	height: 240px;
+}
+
+.kepalakonten {
+	display: block;
+	border-left: 5px solid darkblue; 
+	border-bottom: 5px solid darkblue; 
+	background-color: #1350b2; 
+	border-radius: 13px; 
+	text-align: center; 
+	padding-top: 8px; 
+	padding-bottom: 8px; 
+	color: #fff; 
+}
+
+.tulisan{
+	color: white;
+	background-color: darkblue;
+	border-radius: 0px; 
+	text-align: center; 
+	padding-top: 8px; 
+	padding-bottom: 8px;
+	margin-bottom: 10px;
+}
+.judul_laman{
+	color: white;
+	border-radius: 0px 0px 80px 80px;
+	background-color: #303F8F; 
+	border-bottom: 5px solid gold;
+	text-align: center; 
+	padding-top: 8px; 
+	padding-bottom: 8px;
+	margin-bottom: 10px;
+}
